@@ -1,6 +1,6 @@
 # cpu, mem, IO, current usage for linux and oracle dbs
 # 2023.06.02  puff@mail.ru created 
-# 2024.08.27  puff@mail.ru 2 github.com sync
+# 2024.08.27  puff@mail.ru 2 github.com sync2
 
 
 export FN=cpu_`/usr/bin/hostname`
